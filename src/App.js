@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          This is Dave's text -- and more text
+        </p>
       </header>
     </div>
   );
